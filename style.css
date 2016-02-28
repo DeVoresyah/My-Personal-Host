@@ -3201,3 +3201,16 @@ margin-bottom:0px;
 	color: red;
 	display:none;
 }
+    .tp-leftarrow{
+        display: none !important;
+    }
+    .tp-rightarrow{
+        display: none !important;
+    }
+    #success1{
+        position: fixed;
+        right: 0;
+        top: 20px;
+        z-index: 999;
+        display: none;
+    }
