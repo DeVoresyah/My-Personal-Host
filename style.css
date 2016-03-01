@@ -3206,7 +3206,7 @@ margin-bottom:0px;
     .tp-rightarrow{
         display: none !important;
     }
-    #success1{
+    #success1, #success2{
         position: fixed;
         right: 0;
         top: 20px;
